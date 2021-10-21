@@ -10,7 +10,7 @@ JDBC, Servlet's, MySQL, Tomcat.
 In resources you can find `init_db.sql`, copy sql query and paste to mySQL.
  This query creates schema and tables for this project.
 ## Run application:
-Before you get access to all functions you must authenticate.
+Before you get access to all program functional you must authenticate.
 - You can register(add) new User(Driver) `/drivers/add`
 - After register, you need to login `/login`
 #### All functional
