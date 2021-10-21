@@ -8,6 +8,9 @@
     background: #252F48;
     margin: auto;
 }
+a {
+    color: #99ffff;
+}
 .table_dark th {
     color: #EDB749;
     border-bottom: 1px solid #37B5A5;
