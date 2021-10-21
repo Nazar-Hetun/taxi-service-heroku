@@ -4,13 +4,13 @@ This program imitates the work of taxi service.
 JDBC, Servlet's, MySQL, Tomcat. 
 ## Let's install some programs:
 - Install Tomcat [9.0.50](https://tomcat.apache.org/download-90.cgi) 
-. Don't recommend install version 10+ because program may not work correctly.
+. Don't recommend installing version 10+ because program may not work correctly.
 - Install [mySQL workbench](https://dev.mysql.com/downloads/workbench/).
 ### Configure your DB:
 In resources you can find `init_db.sql`, copy sql query and paste to mySQL.
  This query creates schema and tables for this project.
 ## Run application:
-Before you get access to all functional you must authenticate.
+Before you get access to all functions you must authenticate.
 - You can register(add) new User(Driver) `/drivers/add`
 - After register, you need to login `/login`
 #### All functional
