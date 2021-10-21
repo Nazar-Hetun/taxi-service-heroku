@@ -6,8 +6,6 @@ import mate.lib.Inject;
 import mate.lib.Service;
 import mate.model.Car;
 import mate.model.Driver;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 @Service
 public class CarServiceImpl implements CarService {

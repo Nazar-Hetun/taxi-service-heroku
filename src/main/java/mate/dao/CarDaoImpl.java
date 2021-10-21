@@ -14,10 +14,7 @@ import mate.lib.Dao;
 import mate.model.Car;
 import mate.model.Driver;
 import mate.model.Manufacturer;
-import mate.service.AuthenticationServiceImpl;
 import mate.util.ConnectionUtil;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 @Dao
 public class CarDaoImpl implements CarDao {
