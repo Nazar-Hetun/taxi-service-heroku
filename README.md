@@ -1,5 +1,7 @@
 # Taxi Service
 This program imitates the work of taxi service.
+### Tecnologies
+JDBC, Servlet's, MySQL, Tomcat. 
 ## Let's install some programs:
 - Install Tomcat [9.0.50](https://tomcat.apache.org/download-90.cgi) 
 . Don't recommend install version 10+ because program may not work correctly.
